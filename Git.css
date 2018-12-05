@@ -1,0 +1,21 @@
+body {
+    background-color: red;
+}
+body {
+    color:beige;
+    text-align: center;
+}
+div {
+    width: 300px;
+    padding: 25px;
+    margin: 25px;
+}
+div {
+    background-color:beige;
+    border: 25px darkolivegreen;
+    padding: 10px;
+    margin: 2px;
+}
+body {
+    color:slategrey;
+}
